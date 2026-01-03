@@ -1,0 +1,1993 @@
+{
+  "items": [
+    {
+      "name": "Frying Pan",
+      "sellPrice": 640,
+      "recyclingValue": 8,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Metal Parts"],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "uncommon",
+      "category": "Metal Parts Donor"
+    },
+    {
+      "name": "Candle Holder",
+      "sellPrice": 640,
+      "recyclingValue": 8,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Metal Parts"],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "uncommon",
+      "category": "Metal Parts Donor"
+    },
+    {
+      "name": "Ice Cream Scooper",
+      "sellPrice": 640,
+      "recyclingValue": 7,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Metal Parts"],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "uncommon",
+      "category": "Metal Parts Donor"
+    },
+    {
+      "name": "Garlic Press",
+      "sellPrice": 1000,
+      "recyclingValue": 12,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Metal Parts"],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Metal Parts Donor"
+    },
+    {
+      "name": "ARC Performance Steel",
+      "sellPrice": 1000,
+      "recyclingValue": 7,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Metal Parts"],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Metal Parts Donor"
+    },
+    {
+      "name": "Bicycle Pump",
+      "sellPrice": 2000,
+      "recyclingValue": 10,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Metal Parts"],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Metal Parts Donor"
+    },
+    {
+      "name": "Durable Cloth",
+      "sellPrice": 640,
+      "recyclingValue": 10,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Fabric"],
+        "upgrades": ["Gear Bench Level 3", "Medical Lab Level 2", "Scrappy Level 2"],
+        "expeditions": []
+      },
+      "rarity": "uncommon",
+      "category": "Fabric Donor"
+    },
+    {
+      "name": "Tattered Clothes",
+      "sellPrice": 640,
+      "recyclingValue": 11,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Fabric"],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "uncommon",
+      "category": "Fabric Donor"
+    },
+    {
+      "name": "Tattered ARC Lining",
+      "sellPrice": 640,
+      "recyclingValue": 12,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Fabric"],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "uncommon",
+      "category": "Fabric Donor"
+    },
+    {
+      "name": "Torn Blanket",
+      "sellPrice": 640,
+      "recyclingValue": 12,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Fabric"],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "uncommon",
+      "category": "Fabric Donor"
+    },
+    {
+      "name": "Ruined Parachute",
+      "sellPrice": 640,
+      "recyclingValue": 10,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Fabric"],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "uncommon",
+      "category": "Fabric Donor"
+    },
+    {
+      "name": "Spring Cushion",
+      "sellPrice": 2000,
+      "recyclingValue": 28,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Fabric", "Steel Spring"],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Fabric Donor"
+    },
+    {
+      "name": "ARC Thermo Lining",
+      "sellPrice": 1000,
+      "recyclingValue": 16,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Fabric"],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Fabric Donor"
+    },
+    {
+      "name": "ARC Coolant",
+      "sellPrice": 1000,
+      "recyclingValue": 16,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Chemicals"],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Chemicals Donor"
+    },
+    {
+      "name": "Cooling Coil",
+      "sellPrice": 1000,
+      "recyclingValue": 6,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Chemicals", "Steel Spring"],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Chemicals Donor"
+    },
+    {
+      "name": "ARC Synthetic Resin",
+      "sellPrice": 1000,
+      "recyclingValue": 14,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Plastic Parts"],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Plastic Parts Donor"
+    },
+    {
+      "name": "Ruined Riot Shield",
+      "sellPrice": 1000,
+      "recyclingValue": 10,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Plastic Parts"],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Plastic Parts Donor"
+    },
+    {
+      "name": "ARC Flex Rubber",
+      "sellPrice": 1000,
+      "recyclingValue": 16,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Rubber Parts"],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Rubber Parts Donor"
+    },
+    {
+      "name": "Rubber Pad",
+      "sellPrice": 1000,
+      "recyclingValue": 18,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Rubber Parts"],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Rubber Parts Donor"
+    },
+    {
+      "name": "Diving Goggles",
+      "sellPrice": 640,
+      "safeToDiscard": true,
+      "recyclingValuePercent": -6,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "uncommon",
+      "category": "Safe to Sell"
+    },
+    {
+      "name": "Expired Respirator",
+      "sellPrice": 640,
+      "safeToDiscard": true,
+      "recyclingValuePercent": -6,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "uncommon",
+      "category": "Safe to Sell"
+    },
+    {
+      "name": "Alarm Clock",
+      "sellPrice": 1000,
+      "safeToDiscard": true,
+      "recyclingValuePercent": -14,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Safe to Sell"
+    },
+    {
+      "name": "Broken Guidance System",
+      "sellPrice": 2000,
+      "safeToDiscard": true,
+      "recyclingValuePercent": 0,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Safe to Sell"
+    },
+    {
+      "name": "Broken Handheld Radio",
+      "sellPrice": 2000,
+      "safeToDiscard": true,
+      "recyclingValuePercent": -5,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Safe to Sell"
+    },
+    {
+      "name": "Coolant",
+      "sellPrice": 1000,
+      "safeToDiscard": true,
+      "recyclingValuePercent": -25,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Safe to Sell"
+    },
+    {
+      "name": "Polluted Air Filter",
+      "sellPrice": 1000,
+      "safeToDiscard": true,
+      "recyclingValuePercent": -10,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Safe to Sell"
+    },
+    {
+      "name": "Headphones",
+      "sellPrice": 1000,
+      "safeToDiscard": true,
+      "recyclingValuePercent": -15,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Safe to Sell"
+    },
+    {
+      "name": "Industrial Charger",
+      "sellPrice": 1000,
+      "safeToDiscard": true,
+      "recyclingValuePercent": -12,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Safe to Sell"
+    },
+    {
+      "name": "Radio",
+      "sellPrice": 1000,
+      "safeToDiscard": true,
+      "recyclingValuePercent": 0,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Safe to Sell"
+    },
+    {
+      "name": "Sample Cleaner",
+      "sellPrice": 3000,
+      "safeToDiscard": true,
+      "recyclingValuePercent": -11,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "epic",
+      "category": "Safe to Sell"
+    },
+    {
+      "name": "Radio Relay",
+      "sellPrice": 3000,
+      "safeToDiscard": true,
+      "recyclingValuePercent": -33,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "epic",
+      "category": "Safe to Sell"
+    },
+    {
+      "name": "Remote Control",
+      "sellPrice": 1000,
+      "safeToDiscard": true,
+      "recyclingValuePercent": -8,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Safe to Sell"
+    },
+    {
+      "name": "Thermostat",
+      "sellPrice": 1000,
+      "safeToDiscard": true,
+      "recyclingValuePercent": -15,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Safe to Sell"
+    },
+    {
+      "name": "Unusable Weapon",
+      "sellPrice": 2000,
+      "safeToDiscard": true,
+      "recyclingValuePercent": -2.5,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Safe to Sell"
+    },
+    {
+      "name": "Speaker Component",
+      "sellPrice": 500,
+      "safeToDiscard": true,
+      "recyclingValuePercent": -46,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "common",
+      "category": "Safe to Sell"
+    },
+    {
+      "name": "Burned ARC Circuitry",
+      "sellPrice": 640,
+      "safeToDiscard": true,
+      "recyclingValuePercent": -25,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "uncommon",
+      "category": "Safe to Sell"
+    },
+    {
+      "name": "Dried-Out ARC Resin",
+      "sellPrice": 640,
+      "safeToDiscard": true,
+      "recyclingValuePercent": -16,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "uncommon",
+      "category": "Safe to Sell"
+    },
+    {
+      "name": "Camera Lens",
+      "sellPrice": 640,
+      "safeToDiscard": true,
+      "recyclingValuePercent": -25,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "uncommon",
+      "category": "Safe to Sell"
+    },
+    {
+      "name": "Barricade Kit",
+      "sellPrice": 640,
+      "safeToDiscard": true,
+      "recyclingValuePercent": -25,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "uncommon",
+      "category": "Safe to Sell"
+    },
+    {
+      "name": "Crumpled Plastic Bottle",
+      "sellPrice": 270,
+      "safeToDiscard": true,
+      "recyclingValuePercent": -11,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "common",
+      "category": "Safe to Sell"
+    },
+    {
+      "name": "Damaged Arc Powercell",
+      "sellPrice": 293,
+      "safeToDiscard": true,
+      "recyclingValuePercent": -32,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "common",
+      "category": "Safe to Sell"
+    },
+    {
+      "name": "Degraded ARC Rubber",
+      "sellPrice": 640,
+      "safeToDiscard": true,
+      "recyclingValuePercent": -14,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "uncommon",
+      "category": "Safe to Sell"
+    },
+    {
+      "name": "Deflated Football",
+      "sellPrice": 1000,
+      "safeToDiscard": true,
+      "recyclingValuePercent": -10,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Safe to Sell"
+    },
+    {
+      "name": "Flame Spray",
+      "sellPrice": 2000,
+      "safeToDiscard": true,
+      "recyclingValuePercent": -50,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Safe to Sell"
+    },
+    {
+      "name": "Household Cleaner",
+      "sellPrice": 640,
+      "safeToDiscard": true,
+      "recyclingValuePercent": -14,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "uncommon",
+      "category": "Safe to Sell"
+    },
+    {
+      "name": "Number Plate",
+      "sellPrice": 270,
+      "safeToDiscard": true,
+      "recyclingValuePercent": 181,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "common",
+      "category": "Safe to Sell - Recycle!"
+    },
+    {
+      "name": "Ruined Baton",
+      "sellPrice": 640,
+      "safeToDiscard": true,
+      "recyclingValuePercent": -6,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "uncommon",
+      "category": "Safe to Sell"
+    },
+    {
+      "name": "Spotter Relay",
+      "sellPrice": 2000,
+      "safeToDiscard": true,
+      "recyclingValuePercent": -26,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Safe to Sell"
+    },
+    {
+      "name": "Rusty ARC Steel",
+      "sellPrice": 640,
+      "safeToDiscard": true,
+      "recyclingValuePercent": -25,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "uncommon",
+      "category": "Safe to Sell"
+    },
+    {
+      "name": "Rusted Bolts",
+      "sellPrice": 640,
+      "safeToDiscard": true,
+      "recyclingValuePercent": -6,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "uncommon",
+      "category": "Safe to Sell"
+    },
+    {
+      "name": "Ruined Handcuffs",
+      "sellPrice": 640,
+      "safeToDiscard": true,
+      "recyclingValuePercent": -25,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "uncommon",
+      "category": "Safe to Sell"
+    },
+    {
+      "name": "Metal Parts",
+      "sellPrice": 75,
+      "recyclingValuePercent": -26,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Multiple workshop upgrades"],
+        "expeditions": ["Expedition Project"]
+      },
+      "rarity": "common",
+      "category": "Base Component"
+    },
+    {
+      "name": "Fabric",
+      "sellPrice": 50,
+      "recyclingValuePercent": -67,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Multiple workshop upgrades"],
+        "expeditions": ["Expedition Project"]
+      },
+      "rarity": "common",
+      "category": "Base Component"
+    },
+    {
+      "name": "Chemicals",
+      "sellPrice": 50,
+      "recyclingValuePercent": -26,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Multiple workshop upgrades"],
+        "expeditions": ["Expedition Project"]
+      },
+      "rarity": "common",
+      "category": "Base Component"
+    },
+    {
+      "name": "Plastic Parts",
+      "sellPrice": 60,
+      "recyclingValuePercent": -26,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Multiple workshop upgrades"],
+        "expeditions": ["Expedition Project"]
+      },
+      "rarity": "common",
+      "category": "Base Component"
+    },
+    {
+      "name": "Rubber Parts",
+      "sellPrice": 50,
+      "recyclingValuePercent": -26,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Multiple workshop upgrades"],
+        "expeditions": ["Expedition Project"]
+      },
+      "rarity": "common",
+      "category": "Base Component"
+    },
+    {
+      "name": "Processor",
+      "sellPrice": 500,
+      "recyclingValuePercent": -48,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Multiple workshop upgrades"],
+        "expeditions": []
+      },
+      "rarity": "common",
+      "category": "Core Component"
+    },
+    {
+      "name": "Oil",
+      "sellPrice": 300,
+      "recyclingValuePercent": -50,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Multiple workshop upgrades"],
+        "expeditions": []
+      },
+      "rarity": "common",
+      "category": "Core Component"
+    },
+    {
+      "name": "Voltage Converter",
+      "sellPrice": 500,
+      "recyclingValuePercent": -50,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Multiple workshop upgrades"],
+        "expeditions": []
+      },
+      "rarity": "common",
+      "category": "Core Component"
+    },
+    {
+      "name": "Explosive Compound",
+      "sellPrice": 1000,
+      "recyclingValuePercent": -46,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Explosives Station Level 2"],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Core Component"
+    },
+    {
+      "name": "Steel Spring",
+      "sellPrice": 300,
+      "recyclingValuePercent": -25,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Multiple workshop upgrades"],
+        "expeditions": []
+      },
+      "rarity": "common",
+      "category": "Component"
+    },
+    {
+      "name": "Electrical Components",
+      "sellPrice": 640,
+      "recyclingValuePercent": -48,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Gear Bench Level 2", "Utility Station Level 2", "Gunsmith Level 2"],
+        "expeditions": []
+      },
+      "rarity": "uncommon",
+      "category": "Component"
+    },
+    {
+      "name": "Mechanical Components",
+      "sellPrice": 640,
+      "recyclingValuePercent": -49,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Gunsmith Level 2"],
+        "expeditions": []
+      },
+      "rarity": "uncommon",
+      "category": "Component"
+    },
+    {
+      "name": "Advanced Electrical Components",
+      "sellPrice": 1750,
+      "recyclingValuePercent": -52,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Gear Bench Level 3", "Utility Station Level 3"],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "High-Tier Component"
+    },
+    {
+      "name": "Advanced Mechanical Components",
+      "sellPrice": 1750,
+      "recyclingValuePercent": -46,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Gunsmith Level 3"],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "High-Tier Component"
+    },
+    {
+      "name": "Wires",
+      "sellPrice": 200,
+      "recyclingValuePercent": -50,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Multiple workshop upgrades"],
+        "expeditions": []
+      },
+      "rarity": "common",
+      "category": "Component"
+    },
+    {
+      "name": "Battery",
+      "sellPrice": 250,
+      "recyclingValuePercent": -40,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Multiple workshop upgrades"],
+        "expeditions": ["Expedition Project"]
+      },
+      "rarity": "common",
+      "category": "Component"
+    },
+    {
+      "name": "Magnet",
+      "sellPrice": 330,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Multiple workshop upgrades"],
+        "expeditions": []
+      },
+      "rarity": "common",
+      "category": "Component"
+    },
+    {
+      "name": "ARC Alloy",
+      "sellPrice": 200,
+      "recyclingValuePercent": -25,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Multiple workshop upgrades"],
+        "expeditions": []
+      },
+      "rarity": "common",
+      "category": "Component"
+    },
+    {
+      "name": "Portable TV",
+      "sellPrice": 2000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Battery", "Wires"],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Donor Item"
+    },
+    {
+      "name": "Geiger Counter",
+      "sellPrice": 3500,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Battery"],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "epic",
+      "category": "Donor Item"
+    },
+    {
+      "name": "Power Bank",
+      "sellPrice": 1000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Battery"],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Donor Item"
+    },
+    {
+      "name": "Broken Taser",
+      "sellPrice": 1000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Battery"],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Donor Item"
+    },
+    {
+      "name": "Cracked Bioscanner",
+      "sellPrice": 1000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Battery"],
+        "upgrades": ["Medical Lab Level 2"],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Donor Item"
+    },
+    {
+      "name": "Broken Flashlight",
+      "sellPrice": 1000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Battery"],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Donor Item"
+    },
+    {
+      "name": "Projector",
+      "sellPrice": 1000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Wires"],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Donor Item"
+    },
+    {
+      "name": "Power Cable",
+      "sellPrice": 1000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Wires"],
+        "upgrades": ["Gear Bench Level 2"],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Donor Item"
+    },
+    {
+      "name": "Microscope",
+      "sellPrice": 3000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Magnet"],
+        "upgrades": [],
+        "expeditions": ["Expedition Project - Essentials"]
+      },
+      "rarity": "epic",
+      "category": "Donor Item"
+    },
+    {
+      "name": "Industrial Magnet",
+      "sellPrice": 1000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Magnet"],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Donor Item"
+    },
+    {
+      "name": "Ripped Safety Vest",
+      "sellPrice": 1000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Magnet"],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Donor Item"
+    },
+    {
+      "name": "Fried Motherboard",
+      "sellPrice": 2000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Electrical Components"],
+        "upgrades": ["Utility Station Level 2"],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Donor Item"
+    },
+    {
+      "name": "Rotary Encoder",
+      "sellPrice": 3000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Electrical Components"],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "epic",
+      "category": "Donor Item"
+    },
+    {
+      "name": "Signal Amplifier",
+      "sellPrice": 3000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Electrical Components"],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "epic",
+      "category": "Donor Item"
+    },
+    {
+      "name": "Hornet Driver",
+      "sellPrice": 2000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Electrical Components"],
+        "upgrades": ["Gear Bench Level 2"],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Donor Item"
+    },
+    {
+      "name": "Rusted Tools",
+      "sellPrice": 1000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Steel Spring", "Mechanical Components"],
+        "upgrades": ["Gunsmith Level 2"],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Donor Item"
+    },
+    {
+      "name": "Ruined Accordion",
+      "sellPrice": 2000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Steel Spring"],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Donor Item"
+    },
+    {
+      "name": "Rusted Gear",
+      "sellPrice": 2000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Mechanical Components"],
+        "upgrades": ["Gunsmith Level 2"],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Donor Item"
+    },
+    {
+      "name": "Sentinel Firing Core",
+      "sellPrice": 3000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Mechanical Components"],
+        "upgrades": ["Gunsmith Level 3"],
+        "expeditions": []
+      },
+      "rarity": "epic",
+      "category": "Donor Item"
+    },
+    {
+      "name": "Shredder Gyro",
+      "sellPrice": 3000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Mechanical Components"],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "epic",
+      "category": "Donor Item"
+    },
+    {
+      "name": "Turbo Pump",
+      "sellPrice": 2000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Mechanical Components"],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Donor Item"
+    },
+    {
+      "name": "Exodus Modules",
+      "sellPrice": 2750,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Magnet"],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "epic",
+      "category": "Donor Item"
+    },
+    {
+      "name": "Light Bulb",
+      "sellPrice": 2000,
+      "recyclingValuePercent": -25,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Multiple workshop upgrades"],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Component"
+    },
+    {
+      "name": "Ion Sputter",
+      "sellPrice": 6000,
+      "recyclingValuePercent": -21,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Multiple workshop upgrades"],
+        "expeditions": []
+      },
+      "rarity": "epic",
+      "category": "Component"
+    },
+    {
+      "name": "Frequency Modulation Box",
+      "sellPrice": 3000,
+      "recyclingValuePercent": -25,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Multiple workshop upgrades"],
+        "expeditions": ["Expedition Project - Essentials"]
+      },
+      "rarity": "epic",
+      "category": "Component"
+    },
+    {
+      "name": "Spectrometer",
+      "sellPrice": 3000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": ["Expedition Project - Essentials"]
+      },
+      "rarity": "epic",
+      "category": "Expedition Item"
+    },
+    {
+      "name": "Telemetry Transceiver",
+      "sellPrice": 3000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": ["Expedition Project - Essentials"]
+      },
+      "rarity": "epic",
+      "category": "Expedition Item"
+    },
+    {
+      "name": "Flow Controller",
+      "sellPrice": 3000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": ["Expedition Project - Essentials"]
+      },
+      "rarity": "epic",
+      "category": "Expedition Item"
+    },
+    {
+      "name": "Mini Centrifuge",
+      "sellPrice": 3000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": ["Expedition Project - Essentials"]
+      },
+      "rarity": "epic",
+      "category": "Expedition Item"
+    },
+    {
+      "name": "Leaper Pulse Unit",
+      "sellPrice": 5000,
+      "recyclingValuePercent": -18,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Utility Station Level 3"],
+        "expeditions": ["Expedition Project - Essentials"]
+      },
+      "rarity": "epic",
+      "category": "Component"
+    },
+    {
+      "name": "Combat Mk. 2",
+      "sellPrice": 1750,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Advanced Electrical Components"],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Mod Component"
+    },
+    {
+      "name": "Looting Mk. 2",
+      "sellPrice": 1750,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Advanced Electrical Components"],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Mod Component"
+    },
+    {
+      "name": "Tactical Mk. 2",
+      "sellPrice": 1750,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Advanced Electrical Components"],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Mod Component"
+    },
+    {
+      "name": "Venator I",
+      "sellPrice": 7000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Advanced Electrical Components", "Advanced Mechanical Components"],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "epic",
+      "category": "Mod Component"
+    },
+    {
+      "name": "Torrente I",
+      "sellPrice": 7000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Advanced Mechanical Components"],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "epic",
+      "category": "Mod Component"
+    },
+    {
+      "name": "Tick Pod",
+      "sellPrice": 640,
+      "recyclingValuePercent": -22,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Medical Lab Level 2"],
+        "expeditions": []
+      },
+      "rarity": "uncommon",
+      "category": "Component"
+    },
+    {
+      "name": "Antiseptic",
+      "sellPrice": 1000,
+      "recyclingValuePercent": -50,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Medical Lab Level 3"],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Component"
+    },
+    {
+      "name": "Crude Explosives",
+      "sellPrice": 270,
+      "recyclingValuePercent": -44,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Explosives Station Level 2"],
+        "expeditions": []
+      },
+      "rarity": "common",
+      "category": "Component"
+    },
+    {
+      "name": "Synthesized Fuel",
+      "sellPrice": 700,
+      "recyclingValuePercent": -50,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Explosives Station Level 2", "Refiner Level 3"],
+        "expeditions": []
+      },
+      "rarity": "uncommon",
+      "category": "Component"
+    },
+    {
+      "name": "Pop Trigger",
+      "sellPrice": 640,
+      "recyclingValuePercent": -27,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Explosives Station Level 2"],
+        "expeditions": []
+      },
+      "rarity": "uncommon",
+      "category": "Component"
+    },
+    {
+      "name": "Laboratory Reagents",
+      "sellPrice": 2000,
+      "recyclingValuePercent": -20,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Explosives Station Level 2"],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Component"
+    },
+    {
+      "name": "Prickly Pear",
+      "sellPrice": 640,
+      "recyclingValuePercent": -53,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Scrappy Level 4"],
+        "expeditions": []
+      },
+      "rarity": "uncommon",
+      "category": "Food"
+    },
+    {
+      "name": "Olives",
+      "sellPrice": 640,
+      "recyclingValuePercent": -69,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Scrappy Level 4"],
+        "expeditions": []
+      },
+      "rarity": "uncommon",
+      "category": "Food"
+    },
+    {
+      "name": "Mushroom",
+      "sellPrice": 1000,
+      "recyclingValuePercent": -25,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Scrappy Level 5"],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Food"
+    },
+    {
+      "name": "Apricot",
+      "sellPrice": 640,
+      "recyclingValuePercent": -53,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Scrappy Level 2", "Scrappy Level 3", "Scrappy Level 5"],
+        "expeditions": []
+      },
+      "rarity": "uncommon",
+      "category": "Food"
+    },
+    {
+      "name": "Lemon",
+      "sellPrice": 640,
+      "recyclingValuePercent": -25,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Scrappy Level 2", "Scrappy Level 3"],
+        "expeditions": []
+      },
+      "rarity": "uncommon",
+      "category": "Food"
+    },
+    {
+      "name": "Cat Bed",
+      "sellPrice": 1000,
+      "recyclingValuePercent": -25,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Scrappy Level 4"],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Component"
+    },
+    {
+      "name": "Very Comfortable Pillow",
+      "sellPrice": 2000,
+      "recyclingValuePercent": -25,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Scrappy Level 5"],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Component"
+    },
+    {
+      "name": "Dog Collar",
+      "sellPrice": 640,
+      "recyclingValuePercent": -26,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Scrappy Level 2"],
+        "expeditions": []
+      },
+      "rarity": "uncommon",
+      "category": "Component"
+    },
+    {
+      "name": "Fireball Burner",
+      "sellPrice": 640,
+      "recyclingValuePercent": -27,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Refiner Level 2"],
+        "expeditions": []
+      },
+      "rarity": "uncommon",
+      "category": "Component"
+    },
+    {
+      "name": "ARC Motion Core",
+      "sellPrice": 1000,
+      "recyclingValuePercent": -60,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Refiner Level 2"],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Component"
+    },
+    {
+      "name": "Toaster",
+      "sellPrice": 1000,
+      "recyclingValuePercent": -10,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Refiner Level 2"],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Component"
+    },
+    {
+      "name": "Motor",
+      "sellPrice": 2000,
+      "recyclingValuePercent": -25,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Refiner Level 2"],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Component"
+    },
+    {
+      "name": "ARC Circuitry",
+      "sellPrice": 1000,
+      "recyclingValuePercent": -25,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Refiner Level 3"],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Component"
+    },
+    {
+      "name": "Bombardier Cell",
+      "sellPrice": 5000,
+      "recyclingValuePercent": -25,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Refiner Level 3"],
+        "expeditions": []
+      },
+      "rarity": "epic",
+      "category": "Component"
+    },
+    {
+      "name": "Snitch Scanner",
+      "sellPrice": 2000,
+      "recyclingValuePercent": -26,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Utility Station Level 2"],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Component"
+    },
+    {
+      "name": "Damaged Heat Sink",
+      "sellPrice": 1000,
+      "recyclingValuePercent": -15,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Utility Station Level 2"],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Component"
+    },
+    {
+      "name": "Wasp Driver",
+      "sellPrice": 1000,
+      "recyclingValuePercent": -16,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Gunsmith Level 2"],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Component"
+    },
+    {
+      "name": "Industrial Battery",
+      "sellPrice": 1000,
+      "recyclingValuePercent": -15,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Gear Bench Level 3"],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Component"
+    },
+    {
+      "name": "Bastion Cell",
+      "sellPrice": 5000,
+      "recyclingValuePercent": -22,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Gear Bench Level 3"],
+        "expeditions": []
+      },
+      "rarity": "epic",
+      "category": "Component"
+    },
+    {
+      "name": "Rusted Shut Medical Kit",
+      "sellPrice": 2000,
+      "recyclingValuePercent": 0,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Medical Lab Level 2"],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Component"
+    },
+    {
+      "name": "Surveyor Vault",
+      "sellPrice": 2000,
+      "recyclingValuePercent": -16,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Medical Lab Level 3"],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Component"
+    },
+    {
+      "name": "Rocketeer Driver",
+      "sellPrice": 5000,
+      "recyclingValuePercent": -18,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": ["Explosives Station Level 3"],
+        "expeditions": []
+      },
+      "rarity": "epic",
+      "category": "Component"
+    },
+    {
+      "name": "Combat Mk. 3 (Aggressive)",
+      "sellPrice": 5000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "epic",
+      "category": "Mod"
+    },
+    {
+      "name": "Combat Mk. 3 (Flanking)",
+      "sellPrice": 3000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "epic",
+      "category": "Mod"
+    },
+    {
+      "name": "Looting Mk. 3 (Cautious)",
+      "sellPrice": 5000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "epic",
+      "category": "Mod"
+    },
+    {
+      "name": "Looting Mk. 3 (Survivor)",
+      "sellPrice": 5000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "epic",
+      "category": "Mod"
+    },
+    {
+      "name": "Tactical Mk. 3 (Defensive)",
+      "sellPrice": 5000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "epic",
+      "category": "Mod"
+    },
+    {
+      "name": "Tactical Mk. 3 (Healing)",
+      "sellPrice": 5000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "epic",
+      "category": "Mod"
+    },
+    {
+      "name": "Photoelectric Cloak",
+      "sellPrice": 5000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "epic",
+      "category": "Equipment"
+    },
+    {
+      "name": "Raider Hatch Key",
+      "sellPrice": 2000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Hatch Key"
+    },
+    {
+      "name": "Snap Hook",
+      "sellPrice": 14000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "legendary",
+      "category": "Extraction"
+    },
+    {
+      "name": "Power Rod",
+      "sellPrice": 5500,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "epic",
+      "category": "Extraction"
+    },
+    {
+      "name": "Bettina I",
+      "sellPrice": 8000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "epic",
+      "category": "Weapon"
+    },
+    {
+      "name": "Renegade I",
+      "sellPrice": 7000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "epic",
+      "category": "Weapon"
+    },
+    {
+      "name": "Tempest I",
+      "sellPrice": 13000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "legendary",
+      "category": "Weapon"
+    },
+    {
+      "name": "Bobcat I",
+      "sellPrice": 13000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "legendary",
+      "category": "Weapon"
+    },
+    {
+      "name": "Osprey I",
+      "sellPrice": 7000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "epic",
+      "category": "Weapon"
+    },
+    {
+      "name": "Light Gun Part",
+      "sellPrice": 700,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "uncommon",
+      "category": "Gun Part"
+    },
+    {
+      "name": "Medium Gun Part",
+      "sellPrice": 700,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "uncommon",
+      "category": "Gun Part"
+    },
+    {
+      "name": "Heavy Gun Parts",
+      "sellPrice": 700,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "uncommon",
+      "category": "Gun Part"
+    },
+    {
+      "name": "Magnetic Accelerator",
+      "sellPrice": 5000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "epic",
+      "category": "Weapon Mod"
+    },
+    {
+      "name": "Mod Components",
+      "sellPrice": 1750,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "High-Tier Component"
+    },
+    {
+      "name": "Anvil I",
+      "sellPrice": 2000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Weapon Mod"
+    },
+    {
+      "name": "Burletta I",
+      "sellPrice": 2000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Weapon Mod"
+    },
+    {
+      "name": "Angled Grip II",
+      "sellPrice": 2000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Weapon Mod"
+    },
+    {
+      "name": "Il Toro I",
+      "sellPrice": 2000,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": [],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Weapon Mod"
+    },
+    {
+      "name": "Surge Shield Recharger",
+      "sellPrice": 1200,
+      "safeToDiscard": false,
+      "usedFor": {
+        "components": ["Advanced Electrical Components"],
+        "upgrades": [],
+        "expeditions": []
+      },
+      "rarity": "rare",
+      "category": "Donor Item"
+    }
+  ],
+  "metadata": {
+    "version": "4.0",
+    "lastUpdated": "2025-12-28",
+    "source": "u/pRoDeeD ARC Raiders Master Cheat Sheet"
+  }
+}
