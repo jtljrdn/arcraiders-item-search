@@ -163,7 +163,7 @@ function App() {
         {/* Footer */}
         <div className="mt-16 text-xs font-bold text-gray-700 space-y-1 uppercase tracking-wider text-center">
           <p>
-            Made with ♥︎ by <a href="https://jtlee.dev" target="_blank">jtljrdn</a>
+            Made with ♥︎ by <a href="https://jtlee.dev" target="_blank">jordan</a>
           </p>
           <p>
             Data from <a href="https://ko-fi.com/prodeed" target="_blank" >pRoDeeD</a>'s Master Cheat Sheet v4.0 12-28-2025
