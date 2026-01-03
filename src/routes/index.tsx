@@ -17,9 +17,7 @@ function App() {
     const searchTerm = search.toLowerCase().trim();
     const items = itemsData.items as Item[];
 
-    return items.filter((item) =>
-      item.name.toLowerCase().includes(searchTerm)
-    );
+    return items.filter((item) => item.name.toLowerCase().includes(searchTerm));
   }, [search]);
 
   return (
@@ -72,10 +70,9 @@ function App() {
         <span>INVENTORY CHECK</span>
       </div>
 
-      <div className="relative z-20 flex flex-col items-center px-6 pt-16 pb-16">
-
+      <div className="relative z-20 flex flex-col items-center px-6 pt-16 pb-16 min-h-screen">
         {/* Main content */}
-        <div className="w-full max-w-4xl space-y-10 pb-16">
+        <div className="w-full max-w-4xl space-y-10 pb-16 flex-grow">
           {/* Title */}
           <div className="text-center space-y-6">
             <div className="inline-block">
@@ -145,9 +142,7 @@ function App() {
                   </>
                 ) : (
                   <div className="text-center py-8">
-                    <p className="text-sm text-gray-500 font-bold tracking-wide">
-                      No results found for "{search}"
-                    </p>
+                    <p className="text-sm text-gray-500 font-bold tracking-wide">No results found for "{search}"</p>
                   </div>
                 )}
               </div>
@@ -161,12 +156,19 @@ function App() {
         </div>
 
         {/* Footer */}
-        <div className="mt-16 text-xs font-bold text-gray-700 space-y-1 uppercase tracking-wider text-center">
+        <div className="text-xs font-bold text-gray-700 space-y-1 uppercase tracking-wider text-center">
           <p>
-            Made with ♥︎ by <a href="https://jtlee.dev" target="_blank">jordan</a>
+            Made with ♥︎ by{" "}
+            <a href="https://jtlee.dev" target="_blank">
+              jordan
+            </a>
           </p>
           <p>
-            Data from <a href="https://ko-fi.com/prodeed" target="_blank" >pRoDeeD</a>'s Master Cheat Sheet v4.0 12-28-2025
+            Data from{" "}
+            <a href="https://ko-fi.com/prodeed" target="_blank">
+              pRoDeeD
+            </a>
+            's Master Cheat Sheet v4.0 12-28-2025
           </p>
         </div>
       </div>
